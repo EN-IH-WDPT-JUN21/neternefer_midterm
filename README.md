@@ -17,13 +17,6 @@ git clone git@github.com:EN-IH-WDPT-JUN21/neternefer_midterm.git
    password=pass
 ```
 
-3. MySQL database connection credentials
-```
-   jdbc:mysql://localhost:3306/bankdemo
-   username=bankerdemo
-   password=pass
-```
-
 ### Status codes
 | Status Code | Description |
 | :--- | :--- |
